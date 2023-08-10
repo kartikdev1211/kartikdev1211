@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **https://github.com/kartikdev1211**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wc98-lRXaQYbvxUyGNa6Hp2AX2sC7IUV/view?usp=drive_link](https://drive.google.com/file/d/1Wc98-lRXaQYbvxUyGNa6Hp2AX2sC7IUV/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Wc98-lRXaQYbvxUyGNa6Hp2AX2sC7IUV/view?usp=drive_link](https://drive.google.com/file/d/1Wc98-lRXaQYbvxUyGNa6Hp2AX2sC7IUV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
