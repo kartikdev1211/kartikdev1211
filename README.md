@@ -3,9 +3,9 @@
 
 - 💬 Ask me about **Flutter, Android**
 
-- 📫 How to reach me **https://github.com/kartikdev1211**
+- 📫 How to reach me **https://portfolio-olive-iota-t0yyyfflzb.vercel.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wc98-lRXaQYbvxUyGNa6Hp2AX2sC7IUV/view?usp=drive_link](https://drive.google.com/file/d/1Wc98-lRXaQYbvxUyGNa6Hp2AX2sC7IUV/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Wc98-lRXaQYbvxUyGNa6Hp2AX2sC7IUV/view?usp=drive_link](https://drive.google.com/file/d/1Wc98-lRXaQYbvxUyGNa6Hp2AX2sC7IUV/view?usp=sharing)](https://drive.google.com/file/d/100OqGmCNgBKgyEHYASYh5_ioEQVJiG9_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
